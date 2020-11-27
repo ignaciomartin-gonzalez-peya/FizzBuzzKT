@@ -33,9 +33,9 @@ class FizzBuzz {
     }
 }
 
-fun main() {
-    val fizz = FizzBuzz()
-    for (i in 1..100) {
-        println("$i: ${fizz.transformAnswer(i)}")
-    }
-}
+//fun main() {
+//    val fizz = FizzBuzz()
+//    for (i in 1..100) {
+//        println("$i: ${fizz.transformAnswer(i)}")
+//    }
+//}
